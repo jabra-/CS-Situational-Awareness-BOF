@@ -3,7 +3,7 @@ name: linux-build
 on:
   push:
     branches:
-      - master
+      - jabra--patch-1
 
 jobs:
   build:
